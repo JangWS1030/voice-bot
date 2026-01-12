@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+koreanize-matplotlib
+python-dotenv
+streamlit-audiorecorder
+openai
+pydub
